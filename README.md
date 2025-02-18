@@ -26,7 +26,7 @@
 
 📧 Email:  hemnathlokesh29@gmail.com
 
-🚀 GitHub: [Your Portfolio Link]
+🚀 GitHub: github.com/hemnath-29
 
 <!---
 hemnath-29/hemnath-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
